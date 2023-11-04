@@ -1,0 +1,150 @@
+*{
+    margin: 0; padding: 0;
+}
+
+html{
+    background-color: #000000;
+}
+
+body{
+    width: 750px; height: 1000px;
+    margin: auto; background-color: #ffc0cb;
+}
+
+header{
+    width: 750px; height: 250px;
+    background-color: #f2b05e;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 20px;
+}
+
+/*------------UNO--------------------*/
+
+section#banner{
+    width: 250px; height: 250px;
+    float: left;
+    color: #fff;
+}
+
+
+section#logo{
+    width: 250px; height: 250px;
+    float: left;
+    color: #fff;
+}
+
+section#login{
+    width: 250px; height: 250px;
+    float: right;
+    color: #fff;
+}
+
+.caja{
+    position: relative;
+    display: inline-block;
+
+}
+
+.uno{
+    position: absolute;
+    top: 20px;
+    left: 5%;
+}
+
+
+.dos{
+    position: absolute;
+    top: 20px;
+    left: 5%;
+}
+
+
+.tres{
+    position: absolute;
+    top: 20px;
+    left: 5%;
+}
+
+
+nav{
+    width: 750px; height: 250px;
+    background-color: #005a00;
+    color: #fdda13;
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+}
+
+/*------------DOS--------------------*/
+
+section#inicio{
+    width: 250px; height: 250px;
+    float: left;
+}
+
+section#producto{
+    width: 250px; height: 250px;
+    float: left;
+}
+
+section#contacto{
+    width: 250px; height: 250px;
+    float: right;
+}
+
+main{
+    width: 750px; height: 250px;
+    background-color: #f7f7f7;
+    color: #fdda13;
+    font-family: 'Oswald', sans-serif;
+}
+
+/*------------TRES--------------------*/
+
+main{
+    font-size: 20px;
+    color: #fff;
+    background-color: #1c4003;
+}
+
+aside#hoy{
+    width: 250px; height: 250px;
+    float: left;
+}
+
+article#novedades{
+    width: 250px; height: 250px;
+    float: left;
+    color: #fff;
+}
+
+aside#internacional{
+    width: 250px; height: 250px;
+    float: right;
+
+}
+
+footer{
+    width: 750px; height: 250px;
+    background-color: #130275;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    color: #1bff1b;
+}
+
+/*------------CUATRO--------------------*/
+
+aside#creditos{
+    width: 250px; height: 250px;
+    float: left;
+}
+
+article#lugar{
+    width: 250px; height: 250px;
+    float: left;
+}
+
+
+aside#creditos{
+    width: 250px; height: 250px;
+    float: right;
+}
